@@ -1,0 +1,579 @@
+[2025-05-30 08:50:56] Devices connected:
+
+
+Status       : Unknown
+Class        : USB
+FriendlyName : VMware USB Device
+InstanceId   : USB\VID_0E0F&PID_0001\F46A25C3
+
+Status       : Unknown
+Class        : USB
+FriendlyName : USB Mass Storage Device
+InstanceId   : USB\VID_8564&PID_7000\____________WKPLNDYM
+
+Status       : Unknown
+Class        : USB
+FriendlyName : VMware USB Device
+InstanceId   : USB\VID_0E0F&PID_0001\CF85B2A204697741
+
+Status       : OK
+Class        : USB
+FriendlyName : Intel(R) USB 3.20 eXtensible Host Controller - 1.20 (Microsoft)
+InstanceId   : PCI\VEN_8086&DEV_461E&SUBSYS_380717AA&REV_04\3&11583659&1&68
+
+Status       : Unknown
+Class        : USB
+FriendlyName : USB Mass Storage Device
+InstanceId   : USB\VID_325D&PID_6310\CF85B2A204697741
+
+Status       : OK
+Class        : USB
+FriendlyName : USB4(TM) Host Router (Microsoft)
+InstanceId   : PCI\VEN_8086&DEV_463E&SUBSYS_380617AA&REV_04&USB4_MS_CM\3&11583659&1&6A
+
+Status       : OK
+Class        : USB
+FriendlyName : Intel(R) USB 3.10 eXtensible Host Controller - 1.20 (Microsoft)
+InstanceId   : PCI\VEN_8086&DEV_51ED&SUBSYS_380C17AA&REV_01\3&11583659&1&A0
+
+Status       : Unknown
+Class        : USB
+FriendlyName : USB Mass Storage Device
+InstanceId   : USB\VID_23A9&PID_EF18\5&71736FC&0&4
+
+Status       : OK
+Class        : USB
+FriendlyName : USB Root Hub (USB 3.0)
+InstanceId   : USB\ROOT_HUB30\4&15A40FF0&0&0
+
+Status       : OK
+Class        : USB
+FriendlyName : USB4 Root Router (1.0)
+InstanceId   : USB4\ROOT_DEVICE_ROUTER&VID_8086&PID_463E\4&ABE7560&0&0
+
+Status       : Unknown
+Class        : USB
+FriendlyName : VMware USB Device
+InstanceId   : USB\VID_0E0F&PID_0001\____________WKPLNDYM
+
+Status       : OK
+Class        : USB
+FriendlyName : USB Root Hub (USB 3.0)
+InstanceId   : USB\ROOT_HUB30\4&2505D78C&0&0
+
+Status       : OK
+Class        : USBDevice
+FriendlyName : APP Mode
+InstanceId   : USB\VID_04F2&PID_B798&MI_02\6&56DEAED&1&0002
+
+Status       : Unknown
+Class        : USB
+FriendlyName : USB Mass Storage Device
+InstanceId   : USB\VID_12D1&PID_1037\26EBB18A21151770
+
+Status       : Unknown
+Class        : USB
+FriendlyName : VMware USB Device
+InstanceId   : USB\VID_0E0F&PID_0001\5&71736FC&0&4
+
+Status       : Unknown
+Class        : USB
+FriendlyName : USB Mass Storage Device
+InstanceId   : USB\VID_058F&PID_6387\F46A25C3
+
+Status       : Unknown
+Class        : USB
+FriendlyName : VMware USB Device
+InstanceId   : USB\VID_0E0F&PID_0001\01.00.00
+
+Status       : OK
+Class        : USB
+FriendlyName : USB Composite Device
+InstanceId   : USB\VID_04F2&PID_B798\01.00.00
+
+
+
+
+[!] MALICIOUS DEVICES DETECTED:
+04f2: APP Mode
+04f2: USB Composite Device
+--------------------------------------------------
+[2025-05-30 08:54:17] Devices connected:
+
+
+Status       : Unknown
+Class        : USB
+FriendlyName : VMware USB Device
+InstanceId   : USB\VID_0E0F&PID_0001\F46A25C3
+
+Status       : Unknown
+Class        : USB
+FriendlyName : USB Mass Storage Device
+InstanceId   : USB\VID_8564&PID_7000\____________WKPLNDYM
+
+Status       : Unknown
+Class        : USB
+FriendlyName : VMware USB Device
+InstanceId   : USB\VID_0E0F&PID_0001\CF85B2A204697741
+
+Status       : OK
+Class        : USB
+FriendlyName : Intel(R) USB 3.20 eXtensible Host Controller - 1.20 (Microsoft)
+InstanceId   : PCI\VEN_8086&DEV_461E&SUBSYS_380717AA&REV_04\3&11583659&1&68
+
+Status       : Unknown
+Class        : USB
+FriendlyName : USB Mass Storage Device
+InstanceId   : USB\VID_325D&PID_6310\CF85B2A204697741
+
+Status       : OK
+Class        : USB
+FriendlyName : USB4(TM) Host Router (Microsoft)
+InstanceId   : PCI\VEN_8086&DEV_463E&SUBSYS_380617AA&REV_04&USB4_MS_CM\3&11583659&1&6A
+
+Status       : OK
+Class        : USB
+FriendlyName : Intel(R) USB 3.10 eXtensible Host Controller - 1.20 (Microsoft)
+InstanceId   : PCI\VEN_8086&DEV_51ED&SUBSYS_380C17AA&REV_01\3&11583659&1&A0
+
+Status       : Unknown
+Class        : USB
+FriendlyName : USB Mass Storage Device
+InstanceId   : USB\VID_23A9&PID_EF18\5&71736FC&0&4
+
+Status       : OK
+Class        : USB
+FriendlyName : USB Root Hub (USB 3.0)
+InstanceId   : USB\ROOT_HUB30\4&15A40FF0&0&0
+
+Status       : OK
+Class        : USB
+FriendlyName : USB4 Root Router (1.0)
+InstanceId   : USB4\ROOT_DEVICE_ROUTER&VID_8086&PID_463E\4&ABE7560&0&0
+
+Status       : Unknown
+Class        : USB
+FriendlyName : VMware USB Device
+InstanceId   : USB\VID_0E0F&PID_0001\____________WKPLNDYM
+
+Status       : OK
+Class        : USB
+FriendlyName : USB Root Hub (USB 3.0)
+InstanceId   : USB\ROOT_HUB30\4&2505D78C&0&0
+
+Status       : OK
+Class        : USBDevice
+FriendlyName : APP Mode
+InstanceId   : USB\VID_04F2&PID_B798&MI_02\6&56DEAED&1&0002
+
+Status       : Unknown
+Class        : USB
+FriendlyName : USB Mass Storage Device
+InstanceId   : USB\VID_12D1&PID_1037\26EBB18A21151770
+
+Status       : Unknown
+Class        : USB
+FriendlyName : VMware USB Device
+InstanceId   : USB\VID_0E0F&PID_0001\5&71736FC&0&4
+
+Status       : Unknown
+Class        : USB
+FriendlyName : USB Mass Storage Device
+InstanceId   : USB\VID_058F&PID_6387\F46A25C3
+
+Status       : Unknown
+Class        : USB
+FriendlyName : VMware USB Device
+InstanceId   : USB\VID_0E0F&PID_0001\01.00.00
+
+Status       : OK
+Class        : USB
+FriendlyName : USB Composite Device
+InstanceId   : USB\VID_04F2&PID_B798\01.00.00
+
+
+
+
+[!] MALICIOUS DEVICES DETECTED:
+04f2: APP Mode
+04f2: USB Composite Device
+--------------------------------------------------
+[2025-05-30 08:58:18] Devices connected:
+
+
+Status       : Unknown
+Class        : USB
+FriendlyName : VMware USB Device
+InstanceId   : USB\VID_0E0F&PID_0001\F46A25C3
+
+Status       : Unknown
+Class        : USB
+FriendlyName : USB Mass Storage Device
+InstanceId   : USB\VID_8564&PID_7000\____________WKPLNDYM
+
+Status       : Unknown
+Class        : USB
+FriendlyName : VMware USB Device
+InstanceId   : USB\VID_0E0F&PID_0001\CF85B2A204697741
+
+Status       : OK
+Class        : USB
+FriendlyName : Intel(R) USB 3.20 eXtensible Host Controller - 1.20 (Microsoft)
+InstanceId   : PCI\VEN_8086&DEV_461E&SUBSYS_380717AA&REV_04\3&11583659&1&68
+
+Status       : Unknown
+Class        : USB
+FriendlyName : USB Mass Storage Device
+InstanceId   : USB\VID_325D&PID_6310\CF85B2A204697741
+
+Status       : OK
+Class        : USB
+FriendlyName : USB4(TM) Host Router (Microsoft)
+InstanceId   : PCI\VEN_8086&DEV_463E&SUBSYS_380617AA&REV_04&USB4_MS_CM\3&11583659&1&6A
+
+Status       : OK
+Class        : USB
+FriendlyName : Intel(R) USB 3.10 eXtensible Host Controller - 1.20 (Microsoft)
+InstanceId   : PCI\VEN_8086&DEV_51ED&SUBSYS_380C17AA&REV_01\3&11583659&1&A0
+
+Status       : Unknown
+Class        : USB
+FriendlyName : USB Mass Storage Device
+InstanceId   : USB\VID_23A9&PID_EF18\5&71736FC&0&4
+
+Status       : OK
+Class        : USB
+FriendlyName : USB Root Hub (USB 3.0)
+InstanceId   : USB\ROOT_HUB30\4&15A40FF0&0&0
+
+Status       : OK
+Class        : USB
+FriendlyName : USB4 Root Router (1.0)
+InstanceId   : USB4\ROOT_DEVICE_ROUTER&VID_8086&PID_463E\4&ABE7560&0&0
+
+Status       : Unknown
+Class        : USB
+FriendlyName : VMware USB Device
+InstanceId   : USB\VID_0E0F&PID_0001\____________WKPLNDYM
+
+Status       : OK
+Class        : USB
+FriendlyName : USB Root Hub (USB 3.0)
+InstanceId   : USB\ROOT_HUB30\4&2505D78C&0&0
+
+Status       : OK
+Class        : USBDevice
+FriendlyName : APP Mode
+InstanceId   : USB\VID_04F2&PID_B798&MI_02\6&56DEAED&1&0002
+
+Status       : Unknown
+Class        : USB
+FriendlyName : USB Mass Storage Device
+InstanceId   : USB\VID_12D1&PID_1037\26EBB18A21151770
+
+Status       : Unknown
+Class        : USB
+FriendlyName : VMware USB Device
+InstanceId   : USB\VID_0E0F&PID_0001\5&71736FC&0&4
+
+Status       : Unknown
+Class        : USB
+FriendlyName : USB Mass Storage Device
+InstanceId   : USB\VID_058F&PID_6387\F46A25C3
+
+Status       : Unknown
+Class        : USB
+FriendlyName : VMware USB Device
+InstanceId   : USB\VID_0E0F&PID_0001\01.00.00
+
+Status       : OK
+Class        : USB
+FriendlyName : USB Composite Device
+InstanceId   : USB\VID_04F2&PID_B798\01.00.00
+
+
+
+
+[!] MALICIOUS DEVICES DETECTED:
+04f2: APP Mode
+04f2: USB Composite Device
+--------------------------------------------------
+[2025-05-30 08:59:45] Devices connected:
+
+
+Status       : Unknown
+Class        : USB
+FriendlyName : VMware USB Device
+InstanceId   : USB\VID_0E0F&PID_0001\F46A25C3
+
+Status       : OK
+Class        : USB
+FriendlyName : USB Mass Storage Device
+InstanceId   : USB\VID_8564&PID_7000\____________WKPLNDYM
+
+Status       : Unknown
+Class        : USB
+FriendlyName : VMware USB Device
+InstanceId   : USB\VID_0E0F&PID_0001\CF85B2A204697741
+
+Status       : OK
+Class        : USB
+FriendlyName : Intel(R) USB 3.20 eXtensible Host Controller - 1.20 (Microsoft)
+InstanceId   : PCI\VEN_8086&DEV_461E&SUBSYS_380717AA&REV_04\3&11583659&1&68
+
+Status       : Unknown
+Class        : USB
+FriendlyName : USB Mass Storage Device
+InstanceId   : USB\VID_325D&PID_6310\CF85B2A204697741
+
+Status       : OK
+Class        : USB
+FriendlyName : USB4(TM) Host Router (Microsoft)
+InstanceId   : PCI\VEN_8086&DEV_463E&SUBSYS_380617AA&REV_04&USB4_MS_CM\3&11583659&1&6A
+
+Status       : OK
+Class        : USB
+FriendlyName : Intel(R) USB 3.10 eXtensible Host Controller - 1.20 (Microsoft)
+InstanceId   : PCI\VEN_8086&DEV_51ED&SUBSYS_380C17AA&REV_01\3&11583659&1&A0
+
+Status       : Unknown
+Class        : USB
+FriendlyName : USB Mass Storage Device
+InstanceId   : USB\VID_23A9&PID_EF18\5&71736FC&0&4
+
+Status       : OK
+Class        : USB
+FriendlyName : USB Root Hub (USB 3.0)
+InstanceId   : USB\ROOT_HUB30\4&15A40FF0&0&0
+
+Status       : OK
+Class        : USB
+FriendlyName : USB4 Root Router (1.0)
+InstanceId   : USB4\ROOT_DEVICE_ROUTER&VID_8086&PID_463E\4&ABE7560&0&0
+
+Status       : Unknown
+Class        : USB
+FriendlyName : VMware USB Device
+InstanceId   : USB\VID_0E0F&PID_0001\____________WKPLNDYM
+
+Status       : OK
+Class        : USB
+FriendlyName : USB Root Hub (USB 3.0)
+InstanceId   : USB\ROOT_HUB30\4&2505D78C&0&0
+
+Status       : OK
+Class        : USBDevice
+FriendlyName : APP Mode
+InstanceId   : USB\VID_04F2&PID_B798&MI_02\6&56DEAED&1&0002
+
+Status       : Unknown
+Class        : USB
+FriendlyName : USB Mass Storage Device
+InstanceId   : USB\VID_12D1&PID_1037\26EBB18A21151770
+
+Status       : Unknown
+Class        : USB
+FriendlyName : VMware USB Device
+InstanceId   : USB\VID_0E0F&PID_0001\5&71736FC&0&4
+
+Status       : Unknown
+Class        : USB
+FriendlyName : USB Mass Storage Device
+InstanceId   : USB\VID_058F&PID_6387\F46A25C3
+
+Status       : Unknown
+Class        : USB
+FriendlyName : VMware USB Device
+InstanceId   : USB\VID_0E0F&PID_0001\01.00.00
+
+Status       : OK
+Class        : USB
+FriendlyName : USB Composite Device
+InstanceId   : USB\VID_04F2&PID_B798\01.00.00
+
+
+
+
+[!] MALICIOUS DEVICES DETECTED:
+04f2: APP Mode
+04f2: USB Composite Device
+--------------------------------------------------
+[2025-05-30 09:00:09] Devices connected:
+
+
+Status       : Unknown
+Class        : USB
+FriendlyName : VMware USB Device
+InstanceId   : USB\VID_0E0F&PID_0001\F46A25C3
+
+Status       : OK
+Class        : USB
+FriendlyName : USB Mass Storage Device
+InstanceId   : USB\VID_8564&PID_7000\____________WKPLNDYM
+
+Status       : Unknown
+Class        : USB
+FriendlyName : VMware USB Device
+InstanceId   : USB\VID_0E0F&PID_0001\CF85B2A204697741
+
+Status       : OK
+Class        : USB
+FriendlyName : Intel(R) USB 3.20 eXtensible Host Controller - 1.20 (Microsoft)
+InstanceId   : PCI\VEN_8086&DEV_461E&SUBSYS_380717AA&REV_04\3&11583659&1&68
+
+Status       : Unknown
+Class        : USB
+FriendlyName : USB Mass Storage Device
+InstanceId   : USB\VID_325D&PID_6310\CF85B2A204697741
+
+Status       : OK
+Class        : USB
+FriendlyName : USB4(TM) Host Router (Microsoft)
+InstanceId   : PCI\VEN_8086&DEV_463E&SUBSYS_380617AA&REV_04&USB4_MS_CM\3&11583659&1&6A
+
+Status       : OK
+Class        : USB
+FriendlyName : Intel(R) USB 3.10 eXtensible Host Controller - 1.20 (Microsoft)
+InstanceId   : PCI\VEN_8086&DEV_51ED&SUBSYS_380C17AA&REV_01\3&11583659&1&A0
+
+Status       : Unknown
+Class        : USB
+FriendlyName : USB Mass Storage Device
+InstanceId   : USB\VID_23A9&PID_EF18\5&71736FC&0&4
+
+Status       : OK
+Class        : USB
+FriendlyName : USB Root Hub (USB 3.0)
+InstanceId   : USB\ROOT_HUB30\4&15A40FF0&0&0
+
+Status       : OK
+Class        : USB
+FriendlyName : USB4 Root Router (1.0)
+InstanceId   : USB4\ROOT_DEVICE_ROUTER&VID_8086&PID_463E\4&ABE7560&0&0
+
+Status       : Unknown
+Class        : USB
+FriendlyName : VMware USB Device
+InstanceId   : USB\VID_0E0F&PID_0001\____________WKPLNDYM
+
+Status       : OK
+Class        : USB
+FriendlyName : USB Root Hub (USB 3.0)
+InstanceId   : USB\ROOT_HUB30\4&2505D78C&0&0
+
+Status       : OK
+Class        : USBDevice
+FriendlyName : APP Mode
+InstanceId   : USB\VID_04F2&PID_B798&MI_02\6&56DEAED&1&0002
+
+Status       : Unknown
+Class        : USB
+FriendlyName : USB Mass Storage Device
+InstanceId   : USB\VID_12D1&PID_1037\26EBB18A21151770
+
+Status       : Unknown
+Class        : USB
+FriendlyName : VMware USB Device
+InstanceId   : USB\VID_0E0F&PID_0001\5&71736FC&0&4
+
+Status       : Unknown
+Class        : USB
+FriendlyName : USB Mass Storage Device
+InstanceId   : USB\VID_058F&PID_6387\F46A25C3
+
+Status       : Unknown
+Class        : USB
+FriendlyName : VMware USB Device
+InstanceId   : USB\VID_0E0F&PID_0001\01.00.00
+
+Status       : OK
+Class        : USB
+FriendlyName : USB Composite Device
+InstanceId   : USB\VID_04F2&PID_B798\01.00.00
+
+
+
+
+[!] MALICIOUS DEVICES DETECTED:
+04f2: APP Mode
+04f2: USB Composite Device
+--------------------------------------------------
+[2025-05-30 09:04:55] Devices connected:
+
+
+Status       : OK
+Class        : USB
+FriendlyName : USB4(TM) Host Router (Microsoft)
+InstanceId   : PCI\VEN_8086&DEV_463E&SUBSYS_380617AA&REV_04&USB4_MS_CM\3&11583659&1&6A
+
+Status       : OK
+Class        : USB
+FriendlyName : USB4 Root Router (1.0)
+InstanceId   : USB4\ROOT_DEVICE_ROUTER&VID_8086&PID_463E\4&ABE7560&0&0
+
+
+
+
+--------------------------------------------------
+[2025-05-30 09:06:49] Devices connected:
+
+
+Status       : OK
+InstanceId   : USBSTOR\DISK&VEN_STOREJET&PROD_TRANSCEND&REV_0\____________WKPLNDYM&0
+FriendlyName : StoreJet Transcend USB Device
+
+
+
+
+
+
+Status       : OK
+Class        : USB
+FriendlyName : USB Mass Storage Device
+InstanceId   : USB\VID_8564&PID_7000\____________WKPLNDYM
+
+Status       : OK
+Class        : USB
+FriendlyName : USB4(TM) Host Router (Microsoft)
+InstanceId   : PCI\VEN_8086&DEV_463E&SUBSYS_380617AA&REV_04&USB4_MS_CM\3&11583659&1&6A
+
+Status       : OK
+Class        : USB
+FriendlyName : USB4 Root Router (1.0)
+InstanceId   : USB4\ROOT_DEVICE_ROUTER&VID_8086&PID_463E\4&ABE7560&0&0
+
+
+
+
+--------------------------------------------------
+[2025-05-30 09:11:53] Devices connected:
+
+
+Status       : OK
+InstanceId   : USBSTOR\DISK&VEN_STOREJET&PROD_TRANSCEND&REV_0\____________WKPLNDYM&0
+FriendlyName : StoreJet Transcend USB Device
+
+
+
+
+
+
+Status       : OK
+Class        : USB
+FriendlyName : USB Mass Storage Device
+InstanceId   : USB\VID_8564&PID_7000\____________WKPLNDYM
+
+Status       : OK
+Class        : USB
+FriendlyName : USB4(TM) Host Router (Microsoft)
+InstanceId   : PCI\VEN_8086&DEV_463E&SUBSYS_380617AA&REV_04&USB4_MS_CM\3&11583659&1&6A
+
+Status       : OK
+Class        : USB
+FriendlyName : USB4 Root Router (1.0)
+InstanceId   : USB4\ROOT_DEVICE_ROUTER&VID_8086&PID_463E\4&ABE7560&0&0
+
+
+
+
+--------------------------------------------------
